@@ -1,0 +1,2 @@
+# scratch-RSS
+An exension.
